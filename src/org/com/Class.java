@@ -4,6 +4,8 @@ public class Class {
 	
 	
 	
+	
+	
 	public static void password() {
 		System.out.println("password");
 		
